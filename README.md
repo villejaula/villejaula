@@ -1,6 +1,6 @@
 # Hello world!
 
-I'm @villejaula, an aspiring developer.
+I'm @villejaula, an aspiring developer looking for new career opportunities to learn more.
 
 
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ville Aula</h1>
-<h3 align="center">An aspiring developer from Finland.</h3>
+<h3 align="center">A web developer from Finland.</h3>
 
 <h3 align="left">Contact</h3>
 <p align="left">
